@@ -18,3 +18,12 @@ The repository contains three different notebooks:
 2. The [RNN-based Lorenz system notebook](01_LSTM_Lorenz.ipynb) where a long short-term neural network is developed to learn the dynamics of the Lorenz system.
 3. The [flame dynamics notebook](02_FlameDynamics.ipynb) which describes how to read the flame dynamics dataset.
 
+The first two notebooks are fully complete and used for illustrative purposes.
+The last notebook will be used as a starting point for the exercise sessions.
+
+## Maintainers
+[@adoanTUD](github.com/adoanTUD/).
+
+## License
+
+[MIT](LICENSE) © Nguyen Anh Khoa Doan
